@@ -10,9 +10,15 @@ permalink: /find-game
 - [창세기](https://www.daangn.com/search/%EC%B0%BD%EC%84%B8%EA%B8%B0){: target="\_blank"}
 - [프린세스메이커](https://www.daangn.com/search/%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4%EB%A9%94%EC%9D%B4%EC%BB%A4){: target="\_blank"}
 - [삼국지](https://www.daangn.com/search/%EC%82%BC%EA%B5%AD%EC%A7%80){: target="\_blank"}
+
 - [옛날게임](https://www.daangn.com/search/%EC%98%9B%EB%82%A0%EA%B2%8C%EC%9E%84){: target="\_blank"}
 - [파랜드](https://www.daangn.com/search/%ED%8C%8C%EB%9E%9C%EB%93%9C){: target="\_blank"}
 - [택틱스](https://www.daangn.com/search/%ED%83%9D%ED%8B%B1%EC%8A%A4){: target="\_blank"}
+- [마이트앤매직](https://www.daangn.com/search/%EB%A7%88%EC%9D%B4%ED%8A%B8%EC%95%A4%EB%A7%A4%EC%A7%81){: target="\_blank"}
+- [울티마](https://www.daangn.com/search/%EC%9A%B8%ED%8B%B0%EB%A7%88){: target="\_blank"}
+- [옛날게임](https://www.daangn.com/search/%EC%98%9B%EB%82%A0%EA%B2%8C%EC%9E%84){: target="\_blank"}
+- [pc게임](https://www.daangn.com/search/pc%EA%B2%8C%EC%9E%84){: target="\_blank"}
+- [게임 cd](https://www.daangn.com/search/%EA%B2%8C%EC%9E%84%20cd){: target="\_blank"}
 - [고전게임 서울](https://www.daangn.com/search/%EA%B3%A0%EC%A0%84%EA%B2%8C%EC%9E%84%20%EC%84%9C%EC%9A%B8){: target="\_blank"}
 - [고전게임 경기](https://www.daangn.com/search/%EA%B3%A0%EC%A0%84%EA%B2%8C%EC%9E%84%20%EA%B2%BD%EA%B8%B0){: target="\_blank"}
 - [고전게임 인천](https://www.daangn.com/search/%EA%B3%A0%EC%A0%84%EA%B2%8C%EC%9E%84%20%EC%9D%B8%EC%B2%9C){: target="\_blank"}
