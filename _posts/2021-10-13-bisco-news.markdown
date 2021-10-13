@@ -1,20 +1,18 @@
 ---
 layout: post
-title: "비스코 뉴스 정리"
+title: "비스코 뉴스"
 date: 2021-10-13 19:48:00 +0900
 categories: game
 ---
 
-## 비스코 뉴스 정리
-
 코에이 게임 패키지에 들어있던 비스코 클럽뉴스에 대한 정리
 
-- 95년 이전
+- 95년 이전  
   | 패키지 | 이미지 | |
   | :-: | :-: | :-: |
   | 삼국지3 | <img src="/images/bisconews/삼국지3.jpg" width="320"> | <img src="/images/bisconews/삼국지3_2.jpg" width="320"> |
 
-- 95년
+- 95년  
   | 계절 | 이미지 | | 패키지 | |
   | :-: | :-: | :-: | :-: | :-: |
   | 봄 | | | |
@@ -22,7 +20,7 @@ categories: game
   | 가을 | <img src="/images/bisconews/95가을.jpg" width="320"> | <img src="/images/bisconews/95가을2.jpg" width="320"> | 삼국지4 |
   | 겨울 | | | |
 
-- 96년
+- 96년  
   | 계절 | 이미지 | | 패키지 |
   | :-: | :-: | :-: | :-: |
   | 봄 | <img src="/images/bisconews/96봄.png" width="320"> | | 삼국지4 |
@@ -30,7 +28,7 @@ categories: game
   | 가을 | <img src="/images/bisconews/96가을.png" width="320"> | | |
   | 겨울 | <img src="/images/bisconews/96겨울.jpg" width="320"> | <img src="/images/bisconews/96겨울2.jpg" width="320"> | 삼국지5 |
 
-- 97년
+- 97년  
   | 계절 | 이미지 | | 패키지 |
   | :-: | :-: | :-: | :-: |
   | 봄 | <img src="/images/bisconews/97봄.jpg" width="320"> | <img src="/images/bisconews/97봄2.jpg" width="320"> | 삼국지5pk <br>공명전<br>디어사이드3 |
@@ -38,7 +36,7 @@ categories: game
   | 가을 | | | |
   | 겨울 | <img src="/images/bisconews/97겨울.png" width="320"> | | 수호전천도 108성 |
 
-- 98년
+- 98년  
   | 계절 | 이미지 | | 패키지 |
   | :-: | :-: | :-: | :-: |
   | 봄 | <img src="/images/bisconews/98봄.png" width="320"> | | |
@@ -46,7 +44,7 @@ categories: game
   | 가을 | <img src="/images/bisconews/98가을.png" width="320"> | | 징기스칸4 |
   | 겨울 | <img src="/images/bisconews/98겨울.jpg" width="320"> | <img src="/images/bisconews/98겨울2.jpg" width="320"> | 삼국지6 pk |
 
-- 99년
+- 99년  
   | 계절 | 이미지 | | 패키지 |
   | :-: | :-: | :-: | :-: |
   | 봄 | | | |
