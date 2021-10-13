@@ -8,7 +8,7 @@ categories: game
 코에이 게임 패키지에 들어있던 비스코 클럽뉴스에 대한 정리
 
 - 95년 이전  
-  | 패키지 | 이미지 | |  
+  | 패키지 | 이미지 | - |  
   | :-: | :-: | :-: |  
   | 삼국지3 | <img src="/images/bisconews/삼국지3.jpg" width="320"> | <img src="/images/bisconews/삼국지3_2.jpg" width="320"> |
 
